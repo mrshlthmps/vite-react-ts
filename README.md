@@ -1,7 +1,7 @@
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite.
-An app with just one page
+A React/TypeScript app with just one page
 
 ```bash
 npm create vite@latest
